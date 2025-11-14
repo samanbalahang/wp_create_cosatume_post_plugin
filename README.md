@@ -214,7 +214,7 @@ new MyBrandExtension();
 - **وبسایت:** [samanbalahang](https://samanbalahang.github.io/)
 - **لینکدین:** [Saman Balahang](https://www.linkedin.com/in/sambal-ln-0a5195138/)
 - **گیت‌هاب:** [sambal-dev](https://github.com/samanbalahang)
-- **تلگرام:** [@sambalفثم](https://t.me/sambaltel)
+- **تلگرام:** [@sambaltel](https://t.me/sambaltel)
 
 ### ⏱️ زمان‌بندی پروژه‌ها:
 - **پروژه‌های کوچک:** 1-2 هفته
